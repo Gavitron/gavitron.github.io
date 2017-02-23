@@ -1,0 +1,3 @@
+[submodule "nextholiday"]
+	path = nextholiday
+	url = https://github.com/Gavitron/nextholiday
