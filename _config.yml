@@ -1,1 +1,14 @@
 theme: jekyll-theme-hacker
+
+title: Gavitron's GitHub Blog
+description: my little blog
+url: gavitron.github.io
+author:
+  name: Gavitron
+  email: me@gavitron.com
+  url: gavitron.com
+
+paginate: 5
+owner: Gavitron
+year: 2018
+google_analytics: UA-441519-2
