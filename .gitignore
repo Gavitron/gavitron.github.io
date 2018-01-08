@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# pages frm hacker-blog
+_site
+.sass-cache
