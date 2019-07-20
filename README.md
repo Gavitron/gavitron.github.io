@@ -39,10 +39,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Updating this repo:
+
+you need to make sure that the submodule is installed after checking out this repo.  after the clone, do the following:
+```
+git submodule init
+git submodule update
+cd nextholiday
+git checkout master
+
+```
+
+then, anytime you update the submodule, you just run the following:
 ```
 cd nextholiday/; git pull ; cd .. ; git add nextholiday/ ; git commit -m "updating nextholiday" ; git push
 ```
-run the above to update the submodule.
+
 
 # The Hacker-Blog theme
 
